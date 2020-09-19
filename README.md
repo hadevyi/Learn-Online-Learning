@@ -1,5 +1,5 @@
 # Python_Web_Scrapping
-Create a job scraper, and start django    | Nomad coder - [python for beginners](https://nomadcoders.co/python-for-beginners)
+Create a job scraper, and start django &#9; | [Nomad coder - python for beginners](https://nomadcoders.co/python-for-beginners)
 
 ### Process
 - prior knowledge : Basic HTML
@@ -17,4 +17,4 @@ pip install beautifulsoup4
 |03|Django||
 
 
-### Online Compiler : [The collaborative browser based IDE](https://repl.it/)
+#### Online Compiler : [The collaborative browser based IDE](https://repl.it/)
