@@ -1,5 +1,9 @@
-from indeed import extract_indeed_pages, extract_indeed_jobs
+from indeed import get_jobs as get_indeed_jobs
+from so import get_jobs as get_so_jobs
+from save import save_to_file
 
-last_indeed_page = extract_indeed_pages()           # calculration max page
-indeed_jobs = extract_indeed_jobs(last_indeed_page) # each page scrapping
-print(indeed_jobs)                                  # result print dict(title, company, location, apply url)
+so_jobs = get_so_jobs()
+indeed_jobs = get_indeed_jobs()
+
+jobs = so_jobs + indeed_jobs
+save_to_file(jobs)

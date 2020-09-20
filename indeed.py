@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 LIMIT = 50
 URL = F"https://www.indeed.com/jobs?q=python&limit={LIMIT}" # the web is USA, not Korea
 
-def extract_indeed_pages() :
+def get_last_page() :
   result = requests.get(URL)
   #print(indeed_result.text)                                # You can see HTRML code
 
@@ -43,7 +43,7 @@ def extract_job(html) :
   "link" : F"https://www.indeed.com/viewjob?jk={job_id}"}
 
 
-def extract_indeed_jobs(last_page) :
+def extract_jobs(last_page) :
   jobs = []
   for page in range(last_page) :
     print(F"Scrappting page {page}")
@@ -53,4 +53,10 @@ def extract_indeed_jobs(last_page) :
     for result in results :
       job = extract_job(result)
       jobs.append(job)
+  return jobs
+
+
+def get_jobs() :
+  last_page = get_last_page()           # calculration max page
+  jobs = extract_jobs(last_page) # each page scrapping
   return jobs
