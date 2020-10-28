@@ -1,37 +1,35 @@
 # PY4E
-Python for everyone
 
-### <개요>
+## Python for everyone
+
+<br>
+<div align="right">
+<a href="https://www.py4e.com/"/><img src="https://img.shields.io/static/v1?label=&message=Official site&color=blue"/></a>
+<a href="https://www.youtube.com/user/csev/featured"/><img src="https://img.shields.io/static/v1?label=&message=Official Youtube&color=red&logo=youtube"/></a>
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/PY4E"/></a>
+
+</div>
 
 - Tool : Atom 1.47.0
 - Record : 2020.05.30 ~ing
-- Introduce : NAVER X CONNECT 의 오픈 캠퍼스로 현재 수강은 Michigan 대학의 Charles Secerance 교수님의 유명 강의이다.
-- NOW : 현재 수강 강의를 진행하면서 Python의 기본 문법와 다양한 활용 방법을 학습하면서 프로젝트 설계 중이다. 
+- Introduce : It is an open campus of NAVER X CONNECT, and the current course is a famous lecture by Professor Charles Secerance of Michigan University.
+- NOW : Currently, designing a project while learning Python basic grammar and various methods of use while conducting the course.
 
-**총 5챕터 중 2챕터 수료**
+<br>
 
----
+## Procedure List
 
-### <관련 링크>
+: Complete 2 of 5 chapters in total
 
-- PY4E 공식 : [https://www.py4e.com/](https://www.py4e.com/)
-- YouTube : [https://www.youtube.com/user/csev/featured](https://www.youtube.com/user/csev/featured)
-
----
-
-### <내용>
-
-### For Everone
-
-1. 기본 실행 구문 : 진행문, 조건문, 반복문
-2. 연산자 활용 코드
-3. 조건문 활용
-4. 함수
-5. 반복문 활용
-
-### Data Structure
-6. 문자열(String)
-7. 파일 입출력(File)
-8. 리스트(list)
-9. 딕셔너리(Dictionray)
-10. 튜플(Tuple)
+|     Title      |             Chapter             | Content |
+| :------------: | :-----------------------------: | :-----: |
+|  For Everone   |     Basic execution syntax      |         |
+|                |      Operator utilization       |         |
+|                | Condition Statement Utilization |         |
+|                |             Funtion             |         |
+|                |   Loops Statement Utilization   |         |
+| Data Structure |             String              |         |
+|                |         File In/Output          |         |
+|                |              List               |         |
+|                |           Dictionray            |         |
+|                |              Tuple              |         |
