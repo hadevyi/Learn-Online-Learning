@@ -10,7 +10,7 @@
 
 |        Title        |  Number   | Content |
 | :-----------------: | :-------: | :-----: |
-|        Start        | 001 ~ 010 |         |
+|        Start        | 001 ~ 010 |   print, input     |
 |      Variable       | 011 ~ 020 |         |
 |       String        | 021 ~ 050 |         |
 |        List         | 051 ~ 070 |         |
