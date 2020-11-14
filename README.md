@@ -17,7 +17,7 @@
 |        Tuple        | 071 ~ 080 | The tuple is unmodifiable of element |
 |     Dictionary      | 081 ~ 100 |         star expression, del         |
 |       Control       | 101 ~ 130 | Conditional statement, if-elif-else  |
-|        Loop         | 131 ~ 200 |              for, range            |
+|        Loop         | 131 ~ 200 |  for, for list, range, OHLC example  |
 |      Function       | 201 ~ 240 |                                      |
 |       Module        | 241 ~ 250 |                                      |
 |        Class        | 251 ~ 290 |                                      |
