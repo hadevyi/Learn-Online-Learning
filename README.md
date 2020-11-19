@@ -18,7 +18,7 @@
 |     Dictionary      | 081 ~ 100 |         star expression, del         |
 |       Control       | 101 ~ 130 | Conditional statement, if-elif-else  |
 |        Loop         | 131 ~ 200 |  for, for list, range, OHLC example  |
-|      Function       | 201 ~ 240 |                                      |
-|       Module        | 241 ~ 250 |                                      |
+|      Function       | 201 ~ 240 |    prediction, create, recursive     |
+|       Module        | 241 ~ 250 |      datetime, tiem, os, numpy       |
 |        Class        | 251 ~ 290 |                                      |
 | File O/I, Exception | 291 ~ 300 |                                      |
