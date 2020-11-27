@@ -1,10 +1,13 @@
 # Python_300_for_beginners
 
-<div align="right"><a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Python_300_for_beginners"/></a></div>
+<br>
+<div align="right">
+<a href="https://wikidocs.net/book/922"/><img src="https://img.shields.io/static/v1?label=&message=Official site&color=blue"/></a>
+<a href="https://www.youtube.com/playlist?list=PLNPt2ycoheHqhS_OP4XA8nWycWQWnQtki"/><img src="https://img.shields.io/static/v1?label=&message=Official Youtube&color=red&logo=youtube"/></a>
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Python_300_for_beginners"/></a></div>
 
 - Tool : Visual Studio Code
-- Record : 2020.02.01 ~ing
-- [Question-WebSite](https://wikidocs.net/book/922)
+- Record : 2020.02.01 ~ 2020.11.27 (Done)
 
 ## Procedure List
 
@@ -21,4 +24,4 @@
 |      Function       | 201 ~ 240 |      prediction, create, recursive      |
 |       Module        | 241 ~ 250 |        datetime, tiem, os, numpy        |
 |        Class        | 251 ~ 290 | Class, Object, instance, init, del, str |
-| File O/I, Exception | 291 ~ 300 |                                         |
+| File O/I, Exception | 291 ~ 300 |   txt file, csv file write/read, Error  |
