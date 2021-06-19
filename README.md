@@ -1,0 +1,27 @@
+# Python_300_for_beginners
+
+<br>
+<div align="right">
+<a href="https://wikidocs.net/book/922"/><img src="https://img.shields.io/static/v1?label=&message=Official site&color=blue"/></a>
+<a href="https://www.youtube.com/playlist?list=PLNPt2ycoheHqhS_OP4XA8nWycWQWnQtki"/><img src="https://img.shields.io/static/v1?label=&message=Official Youtube&color=red&logo=youtube"/></a>
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Python_300_for_beginners"/></a></div>
+
+- Tool : Visual Studio Code
+- Record : 2020.02.01 ~ 2020.11.27 (Done)
+
+## Procedure List
+
+|        Title        |  Number   |                 Content                 |
+| :-----------------: | :-------: | :-------------------------------------: |
+|        Start        | 001 ~ 010 |              print, input               |
+|      Variable       | 011 ~ 020 |          type, type conversion          |
+|       String        | 021 ~ 050 |         index,slicing, replace          |
+|        List         | 051 ~ 070 |      append,remove, del, min, max       |
+|        Tuple        | 071 ~ 080 |  The tuple is unmodifiable of element   |
+|     Dictionary      | 081 ~ 100 |          star expression, del           |
+|       Control       | 101 ~ 130 |   Conditional statement, if-elif-else   |
+|        Loop         | 131 ~ 200 |   for, for list, range, OHLC example    |
+|      Function       | 201 ~ 240 |      prediction, create, recursive      |
+|       Module        | 241 ~ 250 |        datetime, tiem, os, numpy        |
+|        Class        | 251 ~ 290 | Class, Object, instance, init, del, str |
+| File O/I, Exception | 291 ~ 300 |   txt file, csv file write/read, Error  |
