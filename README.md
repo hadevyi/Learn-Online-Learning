@@ -12,22 +12,16 @@
 <br>
 
 ## 📚 공부 리스트
-<table style="text-align:center">
+<table align="center">
   <tr>
-    <td><img src="https://blogfiles.pstatic.net/MjAyMTA2MjBfMjc5/MDAxNjI0MTgzODUxNjk1.KbQA28AocwstYH4Pu7KfD0XZ8d7-D6N41RDPg3HYWq4g.JVfZsyTXJPwfi91F3o-4QgRCZ9rHKwR5aQmB2GKB1QEg.JPEG.dang0113/%EA%B7%B8%EB%A6%BC2.jpg?type=w2" width="100px" style="border-radius:10px"></td>
-    <td><img src="https://blogfiles.pstatic.net/MjAyMTA2MjBfMTE4/MDAxNjI0MTgzODUxMzg3.QbIXb-rpfV2Jj3Oy0SMz37vOxHjBH_4X2hFzaCKPxV0g.EiumM6KKPuDGaxDAF_wpNfELI-2VtbmV0QRr9cYV4UEg.PNG.dang0113/%EA%B7%B8%EB%A6%BC1.png?type=w2" width="100px" style="border-radius:10px"></td>
-    <td><img src="https://blogfiles.pstatic.net/MjAyMTA2MjBfMjkw/MDAxNjI0MTgzODUxMDgy.QnoMVlD12RA1KLt95_aLdjvzsJjJED-LNMTAzt-RgTog.ECMogdkzHhcq2p7I88XRdheOXUyFk2393LL7FBpkiC8g.PNG.dang0113/Nomad_Coder.png?type=w2" width="100px" style="border-radius:10px"></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://blogfiles.pstatic.net/MjAyMTA2MjBfMjc5/MDAxNjI0MTgzODUxNjk1.KbQA28AocwstYH4Pu7KfD0XZ8d7-D6N41RDPg3HYWq4g.JVfZsyTXJPwfi91F3o-4QgRCZ9rHKwR5aQmB2GKB1QEg.JPEG.dang0113/%EA%B7%B8%EB%A6%BC2.jpg?type=w2" width="100px"></td>
+    <td><img src="https://blogfiles.pstatic.net/MjAyMTA2MjBfMTE4/MDAxNjI0MTgzODUxMzg3.QbIXb-rpfV2Jj3Oy0SMz37vOxHjBH_4X2hFzaCKPxV0g.EiumM6KKPuDGaxDAF_wpNfELI-2VtbmV0QRr9cYV4UEg.PNG.dang0113/%EA%B7%B8%EB%A6%BC1.png?type=w2" width="100px"></td>
+    <td><img src="https://blogfiles.pstatic.net/MjAyMTA2MjBfMjkw/MDAxNjI0MTgzODUxMDgy.QnoMVlD12RA1KLt95_aLdjvzsJjJED-LNMTAzt-RgTog.ECMogdkzHhcq2p7I88XRdheOXUyFk2393LL7FBpkiC8g.PNG.dang0113/Nomad_Coder.png?type=w2" width="100px"></td>
   </tr>
   <tr>
-    <td>WikiDocs</td>
-    <td>PY4E</td>
-    <td>Nomad Coders</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center">WikiDocs</td>
+    <td align="center">PY4E</td>
+    <td align="center">Nomad Coders</td>
   </tr>
 </table>
 
