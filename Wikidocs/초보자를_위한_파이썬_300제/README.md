@@ -1,27 +1,33 @@
-# Python_300_for_beginners
+# 초보자를 위한 파이썬 300제
 
-<br>
 <div align="right">
 <a href="https://wikidocs.net/book/922"/><img src="https://img.shields.io/static/v1?label=&message=Official site&color=blue"/></a>
 <a href="https://www.youtube.com/playlist?list=PLNPt2ycoheHqhS_OP4XA8nWycWQWnQtki"/><img src="https://img.shields.io/static/v1?label=&message=Official Youtube&color=red&logo=youtube"/></a>
-<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Python_300_for_beginners"/></a></div>
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-OpenClass/tree/master/Wikidocs/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%ED%8C%8C%EC%9D%B4%EC%8D%AC_300%EC%A0%9C"/></a></div>
+<br>
 
-- Tool : Visual Studio Code
-- Record : 2020.02.01 ~ 2020.11.27 (Done)
+<div align="center">
+  <img src="https://wikidocs.net/images//book/python300_zoR1Cof.PNG">
+</div>
 
-## Procedure List
+- 학습환경 : Visual Studio Code
+- 학습기간 : 2020.02.01 ~ 2020.11.27 (완료)
+<br>
+<br>
 
-|        Title        |  Number   |                 Content                 |
+## 학습 세부 리스트
+
+|        대분류        |  문제범위   |                 세부                 |
 | :-----------------: | :-------: | :-------------------------------------: |
-|        Start        | 001 ~ 010 |              print, input               |
-|      Variable       | 011 ~ 020 |          type, type conversion          |
-|       String        | 021 ~ 050 |         index,slicing, replace          |
-|        List         | 051 ~ 070 |      append,remove, del, min, max       |
-|        Tuple        | 071 ~ 080 |  The tuple is unmodifiable of element   |
-|     Dictionary      | 081 ~ 100 |          star expression, del           |
-|       Control       | 101 ~ 130 |   Conditional statement, if-elif-else   |
-|        Loop         | 131 ~ 200 |   for, for list, range, OHLC example    |
-|      Function       | 201 ~ 240 |      prediction, create, recursive      |
+|        시작하기        | 001 ~ 010 |              print, input               |
+|      변수       | 011 ~ 020 |          type, type 변환          |
+|       String        | 021 ~ 050 |         index, slicing, replace          |
+|        List         | 051 ~ 070 |      append, remove, del, min, max       |
+|        Tuple        | 071 ~ 080 |  tuple의 특성과 그 예시 문제   |
+|     Dictionary      | 081 ~ 100 |          star 표기법, del           |
+|       분기문       | 101 ~ 130 |   Conditional statement, if-elif-else 예시 및 연습   |
+|        반복문         | 131 ~ 200 |   for, for list, range, OHLC 예제    |
+|      Function       | 201 ~ 240 |      반복문 수행 결과 예측, 반복문 만들기, 재귀 반복문 만들기      |
 |       Module        | 241 ~ 250 |        datetime, tiem, os, numpy        |
 |        Class        | 251 ~ 290 | Class, Object, instance, init, del, str |
-| File O/I, Exception | 291 ~ 300 |   txt file, csv file write/read, Error  |
+| File O/I, Exception | 291 ~ 300 |   txt file, csv file write/read, try-except-else-finally 구문  |
