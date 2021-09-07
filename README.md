@@ -1,4 +1,4 @@
-# 💻 온라인 오픈 강의
+# 💻 온라인 공개 자료
 
 <div align="right"><a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-OpenClass"/></a></div>
 <div align="center">
