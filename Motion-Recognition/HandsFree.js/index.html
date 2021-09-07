@@ -1,0 +1,28 @@
+<head>
+  <!-- Import helper classes and styles -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/handsfree@8.1.1/build/lib/assets/handsfree.css" />
+</head>
+<body>
+  <!-- Import Handsfree.js in body (as it adds body classes) -->
+  <script src="https://unpkg.com/handsfree@8.1.1/build/lib/handsfree.js"></script>
+
+  <script>
+    handsfree = new Handsfree({
+      showDebug: true,
+      
+      // Use the hand model with custom config
+      hands: {
+        // Always make sure to enable them
+        enabled: true,
+        
+        // Let's track up to 4 hands. It's best to be kind and ask permission first tho!
+        maxNumHands: 2,
+      }
+    })
+
+    // Start webcam and tracking (personally, I always like to ask first)
+    handsfree.start()
+  </script>
+</body>
