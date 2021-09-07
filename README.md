@@ -7,7 +7,7 @@
 
 </div>
 
-> 이제 많은 공부 방법의 하나로 자리 잡은 온라인 강의! 저 역시 많은 관심이 있고, 실제로 많이 듣기도 합니다. 실제 온라인 강의도 해보니 더 관심이 가는 것 같습니다. 남기지 않으면 쉽게 잊고, 필요할 때 찾기가 힘들죠.<br>
+> 이제 많은 공부 방법의 하나로 자리 잡은 온라인 자료! 저 역시 많은 관심이 있고, 실제로 많이 듣기도 합니다. 실제 온라인 강의도 해보니 더 관심이 가는 것 같습니다. 남기지 않으면 쉽게 잊고, 필요할 때 찾기가 힘들죠.<br>
 > 최대한 꼼꼼히 기록하면서, 필요한 내용을 찾고자 합니다. 다른 강의를 추천받고 싶으시거나 구경하실 분들은 언제든 환영입니다! 또 다른 강의를 추천해주실 분들도 언제든 좋습니다 ㅎㅎ
 
 <br>
@@ -19,12 +19,14 @@
     <td><img src="https://blogfiles.pstatic.net/MjAyMTA2MjBfMTE4/MDAxNjI0MTgzODUxMzg3.QbIXb-rpfV2Jj3Oy0SMz37vOxHjBH_4X2hFzaCKPxV0g.EiumM6KKPuDGaxDAF_wpNfELI-2VtbmV0QRr9cYV4UEg.PNG.dang0113/%EA%B7%B8%EB%A6%BC1.png?type=w2" width="100px"></td>
     <td><img src="https://blogfiles.pstatic.net/MjAyMTA2MjBfMjkw/MDAxNjI0MTgzODUxMDgy.QnoMVlD12RA1KLt95_aLdjvzsJjJED-LNMTAzt-RgTog.ECMogdkzHhcq2p7I88XRdheOXUyFk2393LL7FBpkiC8g.PNG.dang0113/Nomad_Coder.png?type=w2" width="100px"></td>
     <td><img src="https://blogfiles.pstatic.net/MjAyMTA3MThfMjAg/MDAxNjI2NjE3OTcwOTY4.ZqbboCwheObXiSpT9C0yAShbkNaebxlej0OuOW-IfE8g.YJvpKf4tPD-l_yV6tKsGwKSDI4kdaNI3AfiEdJfLkHAg.PNG.dang0113/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png?type=w2" width="100px"></td>
+    <td><img src="https://user-images.githubusercontent.com/45550607/132273531-1f3102b3-4736-471f-8c28-27fe57d46be7.png" width="100px"></td>
   </tr>
   <tr>
     <td align="center">WikiDocs</td>
     <td align="center">PY4E</td>
     <td align="center">Nomad Coders</td>
     <td align="center">Inflearn</td>
+    <td align="center">Motion</td>
   </tr>
 </table>
 
@@ -34,6 +36,8 @@
 + PY4E : Python for everybody로 Python에서 매우 저명한 강의이다.
 + Nomad Coders : 유명한 니콜라스쌤과 함께하는 클론코딩!
 + Inflearn : 많은 능력자 분들이 올려주시는 다양한 강의
++ Motion-Recognition : 동작인식 관련 공부사항을 모아두었습니다.
+  + [Handsfree.js](https://github.com/midiblocks/handsfree)에 대한 개인 학습 과정 및 이해 과정을 정리했습니다.
 
 <br>
 
