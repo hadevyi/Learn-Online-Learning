@@ -1,7 +1,7 @@
 # Python for everyone
 
 <div align="right">
-<a href="https://www.py4e.com/"/><img src="https://img.shields.io/static/v1?label=Site&message=Official&color=blue"/></a> <a href="https://www.youtube.com/user/csev/featured"/><img src="https://img.shields.io/static/v1?label=Youtube&message=Official&color=red&logo=youtube"/></a> <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/PY4E"/></a>
+<a href="https://www.py4e.com/"/><img src="https://img.shields.io/static/v1?label=Site&message=Official&color=blue"/></a> <a href="https://www.youtube.com/user/csev/featured"/><img src="https://img.shields.io/static/v1?label=Youtube&message=Official&color=red&logo=youtube"/></a> <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-Learning/tree/master/Python-for-everyone"/></a>
 
 </div><br>
 <div align="center">

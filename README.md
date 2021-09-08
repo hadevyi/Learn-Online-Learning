@@ -1,6 +1,6 @@
 # 💻 온라인 공개 자료
 
-<div align="right"><a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-OpenClass"/></a></div>
+<div align="right"><a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-Learning"/></a></div>
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/45550607/122666590-32838f80-d1e9-11eb-9c50-3798692e8fad.png)

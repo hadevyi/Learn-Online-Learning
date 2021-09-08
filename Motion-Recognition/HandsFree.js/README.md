@@ -1,7 +1,7 @@
 # Handsfree.js
 
 <div align="right">
-<a href="https://handsfree.dev/"/><img src="https://img.shields.io/static/v1?label=Site&message=Official&color=blue"/></a> <a href="https://github.com/midiblocks/handsfree"/><img src="https://img.shields.io/static/v1?label=Official&message=Github&color=grey&logo=github"/></a> <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-OpenClass/tree/master/Motion-Recognition/HandsFree.js"/></a>
+<a href="https://handsfree.dev/"/><img src="https://img.shields.io/static/v1?label=Site&message=Official&color=blue"/></a> <a href="https://github.com/midiblocks/handsfree"/><img src="https://img.shields.io/static/v1?label=Official&message=Github&color=grey&logo=github"/></a> <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-Learning/tree/master/Motion-Recognition/HandsFree.js"/></a>
 
 </div><br><br>
 <div align="center">

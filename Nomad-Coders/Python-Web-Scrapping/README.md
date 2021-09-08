@@ -1,7 +1,7 @@
 
 # Python으로 웹 스크래퍼 만들기
 
-<div align="right"><a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-OpenClass/tree/master/Nomad-Coders/Python-Web-Scrapping"/></a></div>
+<div align="right"><a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-Learning/tree/master/Nomad-Coders/Python-Web-Scrapping"/></a></div>
 
 - 학습기간 : 2020-09-17 ~ 2020-09-27 (10일)
 - 진행상태 : 종료 - [수료증](https://drive.google.com/file/d/1jK13ZWZ0sTGHWH3iCQ2K12WWAZgu9NYv/view?usp=sharing)

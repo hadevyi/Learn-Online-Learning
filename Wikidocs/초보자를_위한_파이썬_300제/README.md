@@ -3,7 +3,7 @@
 <div align="right">
 <a href="https://wikidocs.net/book/922"/><img src="https://img.shields.io/static/v1?label=&message=Official site&color=blue"/></a>
 <a href="https://www.youtube.com/playlist?list=PLNPt2ycoheHqhS_OP4XA8nWycWQWnQtki"/><img src="https://img.shields.io/static/v1?label=&message=Official Youtube&color=red&logo=youtube"/></a>
-<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-OpenClass/tree/master/Wikidocs/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%ED%8C%8C%EC%9D%B4%EC%8D%AC_300%EC%A0%9C"/></a></div>
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eona1301/Learn-Online-Learning/tree/master/Wikidocs/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%ED%8C%8C%EC%9D%B4%EC%8D%AC_300%EC%A0%9C"/></a></div>
 <br>
 
 <div align="center">
