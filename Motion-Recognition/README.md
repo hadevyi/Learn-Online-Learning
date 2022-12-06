@@ -15,6 +15,7 @@
 ## Hands Free
 
 - [Offical Web-Site](https://handsfreejs.netlify.app/)
+- [Hands Free.js Github](https://github.com/midiblocks/handsfree)
 
 ## Mediapipe
 
