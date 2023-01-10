@@ -6,3 +6,6 @@
 - Spring Boot를 이용한 JWT 인증, 인가 구현
 - Spring Security 기초
 - 회원가입, 로그인, 권한 로직
+
+**기본세팅**
+IntelliJ Lombok 설정 : IntelliJ Preferences > Annotation Processors > Enable annotation processing
