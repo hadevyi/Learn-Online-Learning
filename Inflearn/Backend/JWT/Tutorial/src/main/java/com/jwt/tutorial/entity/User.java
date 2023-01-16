@@ -5,18 +5,19 @@ import lombok.*;
 import javax.persistence.*;
 import java.util.*;
 
-@Entity
-@Table(name = "`user`")
+@Entity                     // Databse의 Table과 1:1 Mapping되는 Object
+@Table(name = "`user`")     // Table 이름을 지정하기 위함
 @Getter
 @Setter
 @Builder
 @AllArgsConstructor
-@NoArgsConstructor
+@NoArgsConstructor           // 상단은 Lombok Annotation으로 활용됨 (실무에서는 더 상세히 확인)
 public class User {
 
-    @Id
-    @Column(name = "user_id")
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @JsonIgnore
+    @Id                                                 // PK 설정
+    @Column(name = "user_id")                           // 현재 사용하는 변수명과 별개의 Table Column Name
+    @GeneratedValue(strategy = GenerationType.IDENTITY) // AutoIncrement
     private Long userId;
 
     @Column(name = "username", length = 50, unique = true)
@@ -31,7 +32,7 @@ public class User {
     @Column(name = "activated")
     private boolean activated;
 
-    @ManyToMany
+    @ManyToMany     // User - User_authority - authority 의 다대다 관계를 각각 일대다/다대일의 조인 테이블로 정의함
     @JoinTable(
             name = "user_authority",
             joinColumns = {@JoinColumn(name = "user_id", referencedColumnName = "user_id")},
