@@ -20,3 +20,16 @@ spring:
         format_sql: true
         show_sql: true
     defer-datasource-initialization: true
+
+jwt:
+  header: Authorization
+  # HS512 알고리즘을 사용할 것이기 때문에 512bit, 즉 64byte 이상의 secret key를 사용해야 한다.
+  # mac : echo '<secert-key-value>'|base64
+  # windows : certutil -encode <secert-key-text>.txt <secert-result-encode>.b64
+  secret: ZGFuZy1oeWVvbmEtc3ByaW5nLWJvb3Qtand0LXR1dG9yaWFsLXNlY3JldC1rZXktdmFsdWUtZGF0YS10ZXN0LXByb2plY3QtdmFsdWU=
+  # decode : dang-hyeona-spring-boot-jwt-tutorial-secret-key-value-data-test-project-value
+  token-validity-in-seconds: 86400
+
+logging:
+  level:
+    me.silvernine: DEBUG
